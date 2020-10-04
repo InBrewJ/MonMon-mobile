@@ -1,6 +1,6 @@
 # monmon_mobile
 
-A new Flutter project.
+Fluttery MonMon
 
 ## Getting Started
 
